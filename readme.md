@@ -1,2 +1,2 @@
-#Appsflyer Deep Link Test Page
+# Appsflyer Deep Link Test Page
 test one link and uri 
